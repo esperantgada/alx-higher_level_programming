@@ -4,11 +4,11 @@ from calculator_1 import add, sub, mul, div
 from sys import argv
 
 if __name__ == "__main__":
-    length = len(argv)
-    if length != 4:
+    l = len(argv)
+    if l != 4:
         print("Usage: ./100-my_calculator.py <a> <operator> <b>")
         exit(1)
-    if length == 4:
+    if l == 4:
         operator = argv[2]
         a = int(argv[1])
         b = int(argv[3])
