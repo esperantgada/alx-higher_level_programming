@@ -5,7 +5,7 @@ def divisible_by_2(my_list=[]):
     copy = my_list.copy()
     for a in range(len(copy)):
         if copy[a] % 2 == 0:
-            copy[i] = True
+            copy[a] = True
         else:
-            copy[i] = False
+            copy[a] = False
     return copy
