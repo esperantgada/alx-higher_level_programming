@@ -1,12 +1,12 @@
 0x05. Python - Exceptions
 =========================
-ù
+
 -   By Guillaume
 -   Weight: 1
--   Project over - took place from 12-06-2021 to 12-07-2021 
+-   Project over - took place from 12-06-2021 to 12-07-2021
 -   QA review fully automated.
 
-####Resources
+**Resources
 ---------
 
 **Read or watch**:
