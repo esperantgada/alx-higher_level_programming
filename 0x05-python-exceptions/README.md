@@ -6,7 +6,7 @@
 -   Project over - took place from 12-06-2021 to 12-07-2021
 -   QA review fully automated.
 
-**Resources
+Resources
 ---------
 
 **Read or watch**:
